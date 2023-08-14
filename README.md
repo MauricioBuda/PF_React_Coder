@@ -12,6 +12,6 @@ Proyecto de práctica para curso de react en Coderhouse.
             . Generación de orden de compra vinculado con Firestore
             . Navegar entre los distintos productos disponibles con la posibilidad de filtrar
             
-- [Instalación](#instalación): Para su intalación utilizamos npm, Vite
+- [Instalación](#instalación): Para su instalación utilizamos npm, Vite
 - [Tecnologías Utilizadas](#tecnologías-utilizadas): HTML, CSS, JS, REACT, GIT, GITHUB, VERCEL, NPM
 - [Contacto](#contacto) mauricio.ariel.buda@gmail.com
